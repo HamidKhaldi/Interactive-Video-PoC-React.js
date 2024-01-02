@@ -1,0 +1,31 @@
+@import "sass-mq";
+@import "_vendors/_sass-mq.scss";
+
+$mq-responsive: true;
+
+$mq-breakpoints: (
+    mobile:  320px,
+    midMobile: 480px,
+    tablet:  740px,
+    desktop: 	980px,
+    desktopMid:    1135px,
+    desktopWide:    1400px,
+    desktopXL:    1800px
+);
+
+$mq-static-breakpoint: desktop;
+$mq-show-breakpoints: (mobile, midMobile, tablet, desktop, desktopMid, desktopWide, desktopXL); 
+ 
+@import "_tools/_variables.scss";
+@import "_tools/_mixins.scss";
+@import "_tools/_helpers.scss";
+
+@import "_base/_base.scss";
+@import "_base/_typography.scss";
+@import "_vendors/_featherlight.scss";
+@import "_vendors/_normalize.scss";
+@import "_vendors/_sass-mq.scss";
+
+
+@import "_components/_header.scss";
+@import "_components/_interaction.scss";
