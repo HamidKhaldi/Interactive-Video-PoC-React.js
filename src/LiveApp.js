@@ -4,19 +4,12 @@ import $ from 'jquery';
 import Navigation from "./components/Navigation/Navigation";
 import Video from "./components/Video/Video";
 import Wrapper from "./components/Wrapper/Wrapper";
-// import nySrc from "https://eygb.sharepoint.com/sites/WireWaxPoC/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH2_NYC.mp4";
-// import singaporeSrc from "https://eygb.sharepoint.com/sites/WireWaxPoC/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH3_SINGAPORE.mp4";
-// import londonSrc from "https://eygb.sharepoint.com/sites/WireWaxPoC/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH4_LONDON.mp4";
-// import stuttgartSrc from 'https://eygb.sharepoint.com/sites/WireWaxPoC/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH5_STUTTGART.mp4';
-// import amsterdamSrc from 'https://eygb.sharepoint.com/sites/WireWaxPoC/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH6_AMSTERDAM.mp4';
-// import outroSrc from 'https://eygb.sharepoint.com/sites/WireWaxPoC/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH7_OUTRO.mp4';
-
 
 const videoArr = [
   {
     id: 1,
     name: 'New York',
-    src: 'https://eygb.sharepoint.com/sites/WireWaxPoC/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH2_NYC.mp4',
+    src: 'siteUrl/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH2_NYC.mp4',
     description: 'New York video description',
     hotSpotArr: [
       {
@@ -36,7 +29,7 @@ const videoArr = [
   {
     id: 2,
     name: 'Singapore',
-    src: 'https://eygb.sharepoint.com/sites/WireWaxPoC/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH3_SINGAPORE.mp4',
+    src: 'siteUrl/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH3_SINGAPORE.mp4',
     description: 'Singapore video description',
     hotSpotArr: [
       {
@@ -56,7 +49,7 @@ const videoArr = [
   {
     id: 3,
     name: 'London',
-    src: 'https://eygb.sharepoint.com/sites/WireWaxPoC/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH4_LONDON.mp4',
+    src: 'siteUrl/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH4_LONDON.mp4',
     description: 'London video description',
     hotSpotArr: [
       {
@@ -76,7 +69,7 @@ const videoArr = [
   {
     id: 4,
     name: 'Stuttgart',
-    src: 'https://eygb.sharepoint.com/sites/WireWaxPoC/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH5_STUTTGART.mp4',
+    src: 'siteUrl/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH5_STUTTGART.mp4',
     description: 'Stuttgart video description',
     hotSpotArr: [
       {
@@ -93,7 +86,7 @@ const videoArr = [
     id: 5,
     name: 'Amsterdam',
     description: 'Amsterdam video description',
-    src: 'https://eygb.sharepoint.com/sites/WireWaxPoC/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH6_AMSTERDAM.mp4',
+    src: 'siteUrl/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH6_AMSTERDAM.mp4',
     hotSpotArr: [
       {
         name: 'Analyzing',
@@ -109,7 +102,7 @@ const videoArr = [
     id: 6,
     name: 'Outro',
     description: 'Outro video description',
-    src: 'https://eygb.sharepoint.com/sites/WireWaxPoC/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH7_OUTRO.mp4',
+    src: 'siteUrl/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH7_OUTRO.mp4',
     hotSpotArr: []
   }
 ];
