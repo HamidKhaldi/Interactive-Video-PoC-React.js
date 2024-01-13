@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const BackEndClient = axios.create({
-    baseURL: 'https://eygb.sharepoint.com/sites/WireWaxPoC/_api/web/lists/',
+    baseURL: 'siteUrl/',
     timeout: 1000,
     headers: {
         'Accept': 'application/json;odata=verbose',
