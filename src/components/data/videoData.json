@@ -2,78 +2,78 @@
     {
         "__metadata": {
             "id": "b53f9bf6-bf0a-4ddb-aa54-b242c78b2326",
-            "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)",
+            "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)",
             "etag": "\"4\"",
             "type": "SP.Data.Lst_x005f_InteractiveDataListItem"
         },
         "FirstUniqueAncestorSecurableObject": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/FirstUniqueAncestorSecurableObject"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/FirstUniqueAncestorSecurableObject"
             }
         },
         "RoleAssignments": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/RoleAssignments"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/RoleAssignments"
             }
         },
         "AttachmentFiles": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/AttachmentFiles"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/AttachmentFiles"
             }
         },
         "ContentType": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/ContentType"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/ContentType"
             }
         },
         "GetDlpPolicyTip": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/GetDlpPolicyTip"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/GetDlpPolicyTip"
             }
         },
         "FieldValuesAsHtml": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/FieldValuesAsHtml"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/FieldValuesAsHtml"
             }
         },
         "FieldValuesAsText": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/FieldValuesAsText"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/FieldValuesAsText"
             }
         },
         "FieldValuesForEdit": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/FieldValuesForEdit"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/FieldValuesForEdit"
             }
         },
         "File": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/File"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/File"
             }
         },
         "Folder": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/Folder"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/Folder"
             }
         },
         "LikedByInformation": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/LikedByInformation"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/LikedByInformation"
             }
         },
         "ParentList": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/ParentList"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/ParentList"
             }
         },
         "Properties": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/Properties"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/Properties"
             }
         },
         "Versions": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/Versions"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(1)/Versions"
             }
         },
         "FileSystemObjectType": 0,
@@ -84,7 +84,7 @@
         "Title": "New York",
         "ComplianceAssetId": null,
         "Description": "<div class=\"ExternalClass6A41BB687FB34925A11A0986E5C68D46\"><span id=\"ms-rterangepaste-start\"></span>New York video description<span id=\"ms-rterangecursor-start\"></span><span id=\"ms-rterangecursor-end\"></span><span id=\"ms-rterangepaste-end\"></span><br></div>",
-        "Video_x002d_Link": "https://eygb.sharepoint.com/sites/WireWaxPoC/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH2_NYC.mp4",
+        "Video_x002d_Link": "siteUrl/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH2_NYC.mp4",
         "Video_x002d_Summary": "<div class=\"ExternalClassD2843892B5AE4E0FB5591EB7BFF0077C\"><div style=\"font-family&#58;Calibri, Arial, Helvetica, sans-serif;font-size&#58;11pt;color&#58;rgb(0, 0, 0);\"><span style=\"color&#58;black;\">​<span>&#160;&lt;ul className=&quot;highlight-list&quot;&gt;<br></span><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Opportunities&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Transparency&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Trust&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Build confidence&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;More aligned&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Better career path&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Commitments&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Shared reward&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Enhance learning&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Ease mobility&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Promote partners earlier&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Neon Program Pillars&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Integration&#58; One seamless technology platform&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Transformation&#58; Data, Intelligence and Experience&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Advice / recommendations&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Connect with clients and teams about the EY Digital Audit technology&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Contribute and share your ideas via your Regional Assurance Digital Leader&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Use the EY Digital Audit technology and explore new releases&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;<br></div><span>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;</span></span><br></div></div>",
         "HotspotsId": {
             "__metadata": {
@@ -108,78 +108,78 @@
     {
         "__metadata": {
             "id": "26844b8a-cac5-4933-b353-68011f544902",
-            "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)",
+            "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)",
             "etag": "\"3\"",
             "type": "SP.Data.Lst_x005f_InteractiveDataListItem"
         },
         "FirstUniqueAncestorSecurableObject": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/FirstUniqueAncestorSecurableObject"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/FirstUniqueAncestorSecurableObject"
             }
         },
         "RoleAssignments": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/RoleAssignments"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/RoleAssignments"
             }
         },
         "AttachmentFiles": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/AttachmentFiles"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/AttachmentFiles"
             }
         },
         "ContentType": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/ContentType"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/ContentType"
             }
         },
         "GetDlpPolicyTip": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/GetDlpPolicyTip"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/GetDlpPolicyTip"
             }
         },
         "FieldValuesAsHtml": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/FieldValuesAsHtml"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/FieldValuesAsHtml"
             }
         },
         "FieldValuesAsText": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/FieldValuesAsText"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/FieldValuesAsText"
             }
         },
         "FieldValuesForEdit": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/FieldValuesForEdit"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/FieldValuesForEdit"
             }
         },
         "File": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/File"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/File"
             }
         },
         "Folder": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/Folder"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/Folder"
             }
         },
         "LikedByInformation": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/LikedByInformation"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/LikedByInformation"
             }
         },
         "ParentList": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/ParentList"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/ParentList"
             }
         },
         "Properties": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/Properties"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/Properties"
             }
         },
         "Versions": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/Versions"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(2)/Versions"
             }
         },
         "FileSystemObjectType": 0,
@@ -190,7 +190,7 @@
         "Title": "Singapore",
         "ComplianceAssetId": null,
         "Description": "<div class=\"ExternalClassC97562D7979247ED887928AC00C45001\">Singapore description<span id=\"ms-rterangecursor-start\"></span><span id=\"ms-rterangecursor-end\"></span><br></div>",
-        "Video_x002d_Link": "https://eygb.sharepoint.com/sites/WireWaxPoC/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH3_SINGAPORE.mp4\n",
+        "Video_x002d_Link": "siteUrl/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH3_SINGAPORE.mp4\n",
         "Video_x002d_Summary": "<div class=\"ExternalClass138CB94BDAFA46FE94FAE417E3E52302\"><span id=\"ms-rterangepaste-start\"></span><div>&#160;&lt;ul className=&quot;highlight-list&quot;&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Opportunities&lt;/li&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Transparency&lt;/li&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Trust&lt;/li&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Build confidence&lt;/li&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;More aligned&lt;/li&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Better career path&lt;/li&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Commitments&lt;/li&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Shared reward&lt;/li&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Enhance learning&lt;/li&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Ease mobility&lt;/li&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Promote partners earlier&lt;/li&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Neon Program Pillars&lt;/li&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Integration&#58; One seamless technology platform&lt;/li&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Transformation&#58; Data, Intelligence and Experience&lt;/li&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Advice / recommendations&lt;/li&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Connect with clients and teams about the EY Digital Audit technology&lt;/li&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Contribute and share your ideas via your Regional Assurance Digital Leader&lt;/li&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Use the EY Digital Audit technology and explore new releases&lt;/li&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;</div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;<span id=\"ms-rterangecursor-start\"></span><span id=\"ms-rterangecursor-end\"></span><br></div><span id=\"ms-rterangepaste-end\"></span><br></div>",
         "HotspotsId": {
             "__metadata": {
@@ -214,78 +214,78 @@
     {
         "__metadata": {
             "id": "14c00a9e-e76b-48d9-92dc-622e9ed1c726",
-            "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)",
+            "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)",
             "etag": "\"3\"",
             "type": "SP.Data.Lst_x005f_InteractiveDataListItem"
         },
         "FirstUniqueAncestorSecurableObject": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/FirstUniqueAncestorSecurableObject"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/FirstUniqueAncestorSecurableObject"
             }
         },
         "RoleAssignments": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/RoleAssignments"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/RoleAssignments"
             }
         },
         "AttachmentFiles": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/AttachmentFiles"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/AttachmentFiles"
             }
         },
         "ContentType": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/ContentType"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/ContentType"
             }
         },
         "GetDlpPolicyTip": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/GetDlpPolicyTip"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/GetDlpPolicyTip"
             }
         },
         "FieldValuesAsHtml": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/FieldValuesAsHtml"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/FieldValuesAsHtml"
             }
         },
         "FieldValuesAsText": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/FieldValuesAsText"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/FieldValuesAsText"
             }
         },
         "FieldValuesForEdit": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/FieldValuesForEdit"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/FieldValuesForEdit"
             }
         },
         "File": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/File"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/File"
             }
         },
         "Folder": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/Folder"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/Folder"
             }
         },
         "LikedByInformation": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/LikedByInformation"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/LikedByInformation"
             }
         },
         "ParentList": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/ParentList"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/ParentList"
             }
         },
         "Properties": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/Properties"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/Properties"
             }
         },
         "Versions": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/Versions"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(3)/Versions"
             }
         },
         "FileSystemObjectType": 0,
@@ -296,7 +296,7 @@
         "Title": "London",
         "ComplianceAssetId": null,
         "Description": "<div class=\"ExternalClass115D24C294DF4F90B153EE5B12FD1B79\"><span id=\"ms-rterangepaste-start\"></span>London video description<span id=\"ms-rterangecursor-start\"></span><span id=\"ms-rterangecursor-end\"></span><span id=\"ms-rterangepaste-end\"></span><br></div>",
-        "Video_x002d_Link": "https://eygb.sharepoint.com/sites/WireWaxPoC/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH4_LONDON.mp4",
+        "Video_x002d_Link": "siteUrl/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH4_LONDON.mp4",
         "Video_x002d_Summary": "<div class=\"ExternalClass060EC5AA2507403B94E415C6DCEE34C1\"><div style=\"font-family&#58;Calibri, Arial, Helvetica, sans-serif;font-size&#58;11pt;color&#58;rgb(0, 0, 0);\"><span style=\"color&#58;black;\">​<span>&#160;&lt;ul className=&quot;highlight-list&quot;&gt;<br></span><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Opportunities&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Transparency&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Trust&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Build confidence&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;More aligned&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Better career path&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Commitments&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Shared reward&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Enhance learning&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Ease mobility&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Promote partners earlier&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Neon Program Pillars&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Integration&#58; One seamless technology platform&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Transformation&#58; Data, Intelligence and Experience&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Advice / recommendations&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Connect with clients and teams about the EY Digital Audit technology&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Contribute and share your ideas via your Regional Assurance Digital Leader&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Use the EY Digital Audit technology and explore new releases&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;<br></div><span>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;</span></span><br></div></div>",
         "HotspotsId": {
             "__metadata": {
@@ -319,78 +319,78 @@
     {
         "__metadata": {
             "id": "e4abacac-ccb8-4440-bab6-4c9443011f8e",
-            "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)",
+            "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)",
             "etag": "\"3\"",
             "type": "SP.Data.Lst_x005f_InteractiveDataListItem"
         },
         "FirstUniqueAncestorSecurableObject": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/FirstUniqueAncestorSecurableObject"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/FirstUniqueAncestorSecurableObject"
             }
         },
         "RoleAssignments": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/RoleAssignments"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/RoleAssignments"
             }
         },
         "AttachmentFiles": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/AttachmentFiles"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/AttachmentFiles"
             }
         },
         "ContentType": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/ContentType"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/ContentType"
             }
         },
         "GetDlpPolicyTip": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/GetDlpPolicyTip"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/GetDlpPolicyTip"
             }
         },
         "FieldValuesAsHtml": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/FieldValuesAsHtml"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/FieldValuesAsHtml"
             }
         },
         "FieldValuesAsText": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/FieldValuesAsText"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/FieldValuesAsText"
             }
         },
         "FieldValuesForEdit": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/FieldValuesForEdit"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/FieldValuesForEdit"
             }
         },
         "File": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/File"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/File"
             }
         },
         "Folder": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/Folder"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/Folder"
             }
         },
         "LikedByInformation": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/LikedByInformation"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/LikedByInformation"
             }
         },
         "ParentList": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/ParentList"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/ParentList"
             }
         },
         "Properties": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/Properties"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/Properties"
             }
         },
         "Versions": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/Versions"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(4)/Versions"
             }
         },
         "FileSystemObjectType": 0,
@@ -401,7 +401,7 @@
         "Title": "Stuttgart",
         "ComplianceAssetId": null,
         "Description": "<div class=\"ExternalClass0446D7284FA64A7BB954B0E0912C55B3\"><span id=\"ms-rterangepaste-start\"></span>Stuttgart video description<span id=\"ms-rterangecursor-start\"></span><span id=\"ms-rterangecursor-end\"></span><span id=\"ms-rterangepaste-end\"></span><br></div>",
-        "Video_x002d_Link": "https://eygb.sharepoint.com/sites/WireWaxPoC/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH5_STUTTGART.mp4",
+        "Video_x002d_Link": "siteUrl/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH5_STUTTGART.mp4",
         "Video_x002d_Summary": "<div class=\"ExternalClassAF1F2A72207E46AB89287BA47AB68C5A\"><div style=\"font-family&#58;Calibri, Arial, Helvetica, sans-serif;font-size&#58;11pt;color&#58;rgb(0, 0, 0);\"><span style=\"color&#58;black;\">​<span>&#160;&lt;ul className=&quot;highlight-list&quot;&gt;<br></span><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Opportunities&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Transparency&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Trust&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Build confidence&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;More aligned&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Better career path&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Commitments&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Shared reward&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Enhance learning&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Ease mobility&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Promote partners earlier&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Neon Program Pillars&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Integration&#58; One seamless technology platform&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Transformation&#58; Data, Intelligence and Experience&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Advice / recommendations&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Connect with clients and teams about the EY Digital Audit technology&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Contribute and share your ideas via your Regional Assurance Digital Leader&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Use the EY Digital Audit technology and explore new releases&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;<br></div><span>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;</span></span><br></div></div>",
         "HotspotsId": {
             "__metadata": {
@@ -424,78 +424,78 @@
     {
         "__metadata": {
             "id": "a552cc85-ed9d-46f6-ac81-680d88f865b7",
-            "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)",
+            "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)",
             "etag": "\"3\"",
             "type": "SP.Data.Lst_x005f_InteractiveDataListItem"
         },
         "FirstUniqueAncestorSecurableObject": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/FirstUniqueAncestorSecurableObject"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/FirstUniqueAncestorSecurableObject"
             }
         },
         "RoleAssignments": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/RoleAssignments"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/RoleAssignments"
             }
         },
         "AttachmentFiles": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/AttachmentFiles"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/AttachmentFiles"
             }
         },
         "ContentType": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/ContentType"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/ContentType"
             }
         },
         "GetDlpPolicyTip": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/GetDlpPolicyTip"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/GetDlpPolicyTip"
             }
         },
         "FieldValuesAsHtml": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/FieldValuesAsHtml"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/FieldValuesAsHtml"
             }
         },
         "FieldValuesAsText": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/FieldValuesAsText"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/FieldValuesAsText"
             }
         },
         "FieldValuesForEdit": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/FieldValuesForEdit"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/FieldValuesForEdit"
             }
         },
         "File": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/File"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/File"
             }
         },
         "Folder": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/Folder"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/Folder"
             }
         },
         "LikedByInformation": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/LikedByInformation"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/LikedByInformation"
             }
         },
         "ParentList": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/ParentList"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/ParentList"
             }
         },
         "Properties": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/Properties"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/Properties"
             }
         },
         "Versions": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/Versions"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(5)/Versions"
             }
         },
         "FileSystemObjectType": 0,
@@ -506,7 +506,7 @@
         "Title": "Amsterdam",
         "ComplianceAssetId": null,
         "Description": "<div class=\"ExternalClassAB1B5EC68F8E425EAC763826E661CE29\"><span id=\"ms-rterangepaste-start\"></span>Amsterdam video description<span id=\"ms-rterangecursor-start\"></span><span id=\"ms-rterangecursor-end\"></span><span id=\"ms-rterangepaste-end\"></span><br></div>",
-        "Video_x002d_Link": "https://eygb.sharepoint.com/sites/WireWaxPoC/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH6_AMSTERDAM.mp4",
+        "Video_x002d_Link": "siteUrl/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH6_AMSTERDAM.mp4",
         "Video_x002d_Summary": "<div class=\"ExternalClass9F7D0AABBFC340E1BE81D23AA89B2C7B\"><div style=\"font-family&#58;Calibri, Arial, Helvetica, sans-serif;font-size&#58;11pt;color&#58;rgb(0, 0, 0);\"><span style=\"color&#58;black;\">​<span>&#160;&lt;ul className=&quot;highlight-list&quot;&gt;<br></span><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Opportunities&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Transparency&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Trust&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Build confidence&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;More aligned&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Better career path&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Commitments&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Shared reward&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Enhance learning&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Ease mobility&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Promote partners earlier&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Neon Program Pillars&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Integration&#58; One seamless technology platform&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Transformation&#58; Data, Intelligence and Experience&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Advice / recommendations&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Connect with clients and teams about the EY Digital Audit technology&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Contribute and share your ideas via your Regional Assurance Digital Leader&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Use the EY Digital Audit technology and explore new releases&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;<br></div><span>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;</span></span><br></div></div>",
         "HotspotsId": {
             "__metadata": {
@@ -528,78 +528,78 @@
     {
         "__metadata": {
             "id": "10cffe08-63be-40ba-a7b0-d62a8e9b8a29",
-            "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)",
+            "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)",
             "etag": "\"2\"",
             "type": "SP.Data.Lst_x005f_InteractiveDataListItem"
         },
         "FirstUniqueAncestorSecurableObject": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/FirstUniqueAncestorSecurableObject"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/FirstUniqueAncestorSecurableObject"
             }
         },
         "RoleAssignments": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/RoleAssignments"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/RoleAssignments"
             }
         },
         "AttachmentFiles": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/AttachmentFiles"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/AttachmentFiles"
             }
         },
         "ContentType": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/ContentType"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/ContentType"
             }
         },
         "GetDlpPolicyTip": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/GetDlpPolicyTip"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/GetDlpPolicyTip"
             }
         },
         "FieldValuesAsHtml": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/FieldValuesAsHtml"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/FieldValuesAsHtml"
             }
         },
         "FieldValuesAsText": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/FieldValuesAsText"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/FieldValuesAsText"
             }
         },
         "FieldValuesForEdit": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/FieldValuesForEdit"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/FieldValuesForEdit"
             }
         },
         "File": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/File"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/File"
             }
         },
         "Folder": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/Folder"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/Folder"
             }
         },
         "LikedByInformation": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/LikedByInformation"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/LikedByInformation"
             }
         },
         "ParentList": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/ParentList"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/ParentList"
             }
         },
         "Properties": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/Properties"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/Properties"
             }
         },
         "Versions": {
             "__deferred": {
-                "uri": "https://eygb.sharepoint.com/sites/WireWaxPoC/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/Versions"
+                "uri": "siteUrl/_api/Web/Lists(guid'79cd6866-1635-4675-9c81-94a94e4328ad')/Items(6)/Versions"
             }
         },
         "FileSystemObjectType": 0,
@@ -610,7 +610,7 @@
         "Title": "Outro",
         "ComplianceAssetId": null,
         "Description": "<div class=\"ExternalClass766AB4E046024109B137916A781FCE79\">Outro video description<br></div>",
-        "Video_x002d_Link": "https://eygb.sharepoint.com/sites/WireWaxPoC/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH7_OUTRO.mp4",
+        "Video_x002d_Link": "siteUrl/SiteAssets/Pages/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH7_OUTRO.mp4",
         "Video_x002d_Summary": "<div class=\"ExternalClassE423B97DD8234A6BBB58CFFADA14CD45\"><div style=\"font-family&#58;Calibri, Arial, Helvetica, sans-serif;font-size&#58;11pt;color&#58;rgb(0, 0, 0);\"><span style=\"color&#58;black;\">​<span>&#160;&lt;ul className=&quot;highlight-list&quot;&gt;<br></span><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Opportunities&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Transparency&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Trust&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Build confidence&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;More aligned&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Better career path&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Commitments&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Shared reward&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Enhance learning&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Ease mobility&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Promote partners earlier&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Neon Program Pillars&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Integration&#58; One seamless technology platform&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Transformation&#58; Data, Intelligence and Experience&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;highlight-list--item&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;ul className=&quot;ind-highlight-list&quot;&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item section-name&quot;&gt;Advice / recommendations&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Connect with clients and teams about the EY Digital Audit technology&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Contribute and share your ideas via your Regional Assurance Digital Leader&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;li className=&quot;ind-highlight-list--item&quot;&gt;Use the EY Digital Audit technology and explore new releases&lt;/li&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;<br></div><div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/li&gt;<br></div><span>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &lt;/ul&gt;</span></span><br></div></div>",
         "HotspotsId": {
             "__metadata": {
