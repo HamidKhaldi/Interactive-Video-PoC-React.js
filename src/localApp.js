@@ -4,12 +4,6 @@ import $ from 'jquery';
 import Navigation from "./components/Navigation/Navigation";
 import Video from "./components/Video/Video";
 import Wrapper from "./components/Wrapper/Wrapper";
-import nySrc from "../src/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH2_NYC.mp4";
-import singaporeSrc from "../src/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH3_SINGAPORE.mp4";
-import londonSrc from "../src/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH4_LONDON.mp4";
-import stuttgartSrc from '../src/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH5_STUTTGART.mp4';
-import amsterdamSrc from '../src/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH6_AMSTERDAM.mp4';
-import outroSrc from '../src/media/exports/UKC-025203_PROJECT_WW_DIGITAL_AUDIT_CH7_OUTRO.mp4';
 
 
 const videoArr = [
@@ -133,14 +127,6 @@ function App() {
   useEffect(() => {
     // console.log('startTime in app ', startTime);
   }, [startTime, sameVideo]);
-
-  // const gotoVideo = (videoName) => {
-  //   setStartTime(0);
-  //   let clickedVideoSrc = videoArr.filter(video => video.name === videoName)[0]['src'];
-  //   setVideoSrc(clickedVideoSrc);
-  //   setVideoDetails(videoArr.filter(video => video.name === videoName)[0]);
-  // };
-
 
   return (
     <div className="App">
